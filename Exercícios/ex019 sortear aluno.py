@@ -1,6 +1,6 @@
 # Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude
 #ele, lendo o nome deles e escrevendo o nome do escolhido
-from random import choice,
+from random import choice
 
 a1 = input('Digite o nome de um aluno: ')
 a2 = input('Digite o nome de outro aluno: ')
